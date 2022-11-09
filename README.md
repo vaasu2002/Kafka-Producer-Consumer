@@ -1,0 +1,1 @@
+# Kafka Producer and Consumer code for sending sensor data to Kafka and from Kafka to MongoDB
