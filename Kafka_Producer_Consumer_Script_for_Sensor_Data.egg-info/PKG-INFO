@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: Kafka-Producer-Consumer-Script-for-Sensor-Data
+Version: 0.0.1
+Summary: This is first step of Sensor-Fault-Detection-Project,using producer scripts, sensor data will be sent to kafka server and using consumer scripts sensor data from kafka server will be sent to kafka server will be stored in MongoDB
+Author: Vaasu Bisht
