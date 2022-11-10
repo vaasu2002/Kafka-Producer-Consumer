@@ -15,5 +15,5 @@ conda activate env_kafka/
 ```
 Step4: Install the requirements
 ```
-pip install -r requirenments.txt
+python setup.py install
 ```
