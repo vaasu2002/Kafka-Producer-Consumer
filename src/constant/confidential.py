@@ -1,7 +1,0 @@
-# Not Currupted
-API_KEY = "DMA2D2TNSNXB3MBQ"
-ENDPOINT_SCHEMA_URL  = "https://psrc-7q7vj.ap-southeast-2.aws.confluent.cloud"
-API_SECRET_KEY = "wIEglNi8ER0G7ZO+oeFADSj1eDrcFdUi3XJLSruPVEGhJhACs6Fc2dAcvEpzTjIr"
-BOOTSTRAP_SERVER = "pkc-xrnwx.asia-south2.gcp.confluent.cloud:9092"
-SCHEMA_REGISTRY_API_KEY = "VIPYIHK2Q2HVEFN5"
-SCHEMA_REGISTRY_API_SECRET = "HuvzRn0Txl76lfndjs20a4DmZ81EBEA9vYTwg5gWY5JLQ8J+91zWmrPIOGXxlStD"
