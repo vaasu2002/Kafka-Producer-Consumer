@@ -17,6 +17,3 @@ Step4: Install the requirements
 ```
 pip install -r requirenments.txt
 ```
-
-### Producer Flowchart
-![image](https://github.com/vaasu2002/Kafka-Producer-Consumer/blob/main/flowchat/Kafka%20Producer.png)
