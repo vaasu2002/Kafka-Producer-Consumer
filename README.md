@@ -1,6 +1,6 @@
 # Kafka Producer Consumer Script for Sensor Data
 
-This repository is first step of Sensor-Fault-Detection-Project, using producer script- sensor data will be sent to kafka server and using consumer script- sensor data from kafka server will be sent to kafka server will be stored in MongoDB. This is big data pipeline of the main project. 
+This repository is Data Pipeline for Sensor-Fault-Detection-Project, using producer script- sensor data will be sent to kafka server and using consumer script- sensor data from kafka server will be sent to kafka server will be stored in MongoDB. This is big data pipeline of the main project. 
 
 [Sensor-Fault-Detection-Project]()
 
