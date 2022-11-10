@@ -9,9 +9,12 @@ src/__init__.py
 src/constant/__init__.py
 src/constant/confidential.py
 src/database/__init__.py
+src/database/mongodb.py
 src/entity/__init__.py
 src/entity/generic.py
 src/kafka_config/__init__.py
+src/kafka_consumer/__init__.py
+src/kafka_consumer/json_consumer.py
 src/kafka_logger/__init__.py
 src/kafka_producer/__init__.py
 src/kafka_producer/json_producer.py
